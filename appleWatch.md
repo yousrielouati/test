@@ -5,7 +5,7 @@ type:
   - Boîtier en aluminium (PRODUCT)RED, Bracelet Boucle unique tressée
   - Boîtier en aluminium minuit, Bracelet Sport Nike
 ---
-![github-profile](C:\Users\Eya Ayette\PfeTest1\W1.jfif)
+![github-profile](W1.jfif)
 
 Boîtier en aluminium minuit, Bracelet Sport Nike
 ------
