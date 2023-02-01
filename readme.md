@@ -13,16 +13,16 @@ These are the most famouse categories :
 <br>
 this type of games revolves around the players having some sorts of weapons they can use to aim at certain targets with the use of their mouse.
 this genra is genrally offers the best PVP experiences 
-<table>
-      <tr>
-         <th>Name</th>
-         <th>RollNo</th>
-      </tr>
-      <tr>
-         <td>Jason</td>
-         <td>28</td>
-      </tr>
-   </table>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>RollNo</th>
+            </tr>
+            <tr>
+                <td>Jason</td>
+                <td>28</td>
+            </tr>
+        </table>
 * ##### MOBA 
 ![moba games](moba.jpg)
 <br>
