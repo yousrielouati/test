@@ -11,7 +11,7 @@ These are the most famouse categories :
 * ##### FPS 
 ![fps games](fps.jpg)
 <br>
-this type of games revolves around the players having some sorts of weapons they can use to aim at certain targets with the use of their mouse.
+this type of games revolves around the players having some sggggggggggggggorts of weapons they can use to aim at certain targets with the use of their mouse.
 this genra is genrally offers the best PVP experiences 
         <table>
             <tr>
