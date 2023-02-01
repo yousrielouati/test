@@ -9,5 +9,8 @@ Game categories
 video games can be divided into multiple categories depending on the mecaniques, the playstyle and the overall goal of the game. 
 These are the most famouse categories : 
 * FPS 
+![fps games](fps.jpg)
 * MOBA 
+![moba games](moba.jpg)
 * SIMULATION
+![simulation games](sim.jpg)
