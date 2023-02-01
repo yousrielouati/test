@@ -17,22 +17,10 @@ this genra is genrally offers the best PVP experiences
             <tr>
                 <th>Name</th>
                 <th>RollNo</th>
-                <th>test</th>
             </tr>
             <tr>
                 <td>Jason</td>
-                <td>25</td>
-                <td>test</td>
-            </tr>
-            <tr>
-                <td>Jason</td>
-                <td>27</td>
-                <td>test</td>
-            </tr>
-            <tr>
-                <td>Jason</td>
-                <td>29</td>
-                <td>test</td>
+                <td>28</td>
             </tr>
         </table>
 * ##### MOBA 
